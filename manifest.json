@@ -1,0 +1,29 @@
+{
+  "modelSetVersion": "2026-04-10-models",
+  "files": [
+    {
+      "name": "clip_visual.onnx",
+      "url": "https://github.com/sakamotch/vrcalbum-model-dist/releases/download/2026-04-10-models/clip_visual.onnx",
+      "sha256": "4ce727018ad2c7a4da50ba2fe621fa20949facbd6a3a57c42f6f945d6a52d4f0",
+      "sizeBytes": 87634208
+    },
+    {
+      "name": "clip_textual.onnx",
+      "url": "https://github.com/sakamotch/vrcalbum-model-dist/releases/download/2026-04-10-models/clip_textual.onnx",
+      "sha256": "19d6baa7ddfabb5b05b62568933bc0bf4de8161bafcdf5afa3fb08f3e3f7d7fc",
+      "sizeBytes": 135392520
+    },
+    {
+      "name": "tokenizer.json",
+      "url": "https://github.com/sakamotch/vrcalbum-model-dist/releases/download/2026-04-10-models/tokenizer.json",
+      "sha256": "d241a60d5e8f04cc1b2b3e9ef7a4921b27bf526d9f6050ab90f9267a1f9e5c66",
+      "sizeBytes": 711396
+    },
+    {
+      "name": "Qwen3-0.6B-Q8_0.gguf",
+      "url": "https://github.com/sakamotch/vrcalbum-model-dist/releases/download/2026-04-10-models/Qwen3-0.6B-Q8_0.gguf",
+      "sha256": "9465e63a22add5354d9bb4b99e90117043c7124007664907259bd16d043bb031",
+      "sizeBytes": 639446688
+    }
+  ]
+}
